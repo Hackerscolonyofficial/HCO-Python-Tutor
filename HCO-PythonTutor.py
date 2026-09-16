@@ -127,12 +127,15 @@ def clear():
 
 def logo():
     print(f"{CYAN}{BOLD}")
-    print("██╗  ██╗ ██████╗ ")
-    print("██║  ██║██╔════╝ ")
-    print("███████║██║      ")
-    print("██╔══██║██║      ")
-    print("██║  ██║╚██████╗ ")
-    print("╚═╝  ╚═╝ ╚═════╝ ")
+
+    # HCO ASCII LOGO
+    print("██╗  ██╗ ██████╗  ██████╗ ")
+    print("██║  ██║██╔════╝ ██╔═══██╗")
+    print("███████║██║      ██║   ██║")
+    print("██╔══██║██║      ██║   ██║")
+    print("██║  ██║╚██████╗ ╚██████╔╝")
+    print("╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ")
+
     print()
     print("       HCO PYTHON TUTOR")
     print(f"{RESET}")
