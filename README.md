@@ -42,7 +42,7 @@ pkg install -y git
 ### 2. Clone the repository
 
 ```bash
-git clone https://github.com/Hackerscolonyofficial/HCO-PythonTutor.git
+git clone https://github.com/Hackerscolonyofficial/HCO-Python-Tutor.git
 ```
 
 ### 3. Enter the folder
@@ -73,7 +73,7 @@ sudo apt install -y git
 ### 2. Clone
 
 ```bash
-git clone https://github.com/Hackerscolonyofficial/HCO-PythonTutor.git
+git clone https://github.com/Hackerscolonyofficial/HCO-Python-Tutor.git
 ```
 
 ### 3. Enter the folder
